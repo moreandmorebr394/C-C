@@ -1,4 +1,3 @@
-// Classe Conta.java
 public class Conta {
     private TipoConta tipoConta;
     private TipoCliente tipoCliente;
